@@ -43,3 +43,38 @@ html{
     margin-top: -183px;
    
 }
+/* search_bar - begins */
+.search_bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 25rem;
+    height: 3rem;
+    background-color: white;
+    border-radius: 30px;
+    margin-left: 33rem;
+    margin-top: 10rem;
+}
+.search_icon{
+    font-size: 2rem;
+    color: black;
+    padding-top: .7rem;
+    padding-right: 2rem;
+}
+.input_search{
+    width: 19rem;
+    height: 3rem;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    border: none;
+    text-decoration: inherit;
+    outline: none;
+    margin-right: 1rem;
+}
+.short{
+    padding-left: 25rem;
+    color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:  x-large;
+    padding-top: 1rem;
+}
